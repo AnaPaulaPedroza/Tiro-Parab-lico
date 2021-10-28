@@ -12,7 +12,7 @@ Algunos miembros del equipo harán que:
 
 📌 La velocidad del movimiento para el proyectil y los balones sea más rápida
 
-📌 Hacer que el juego nunca termine, de manera que los balones al salir de la ventana se re posicionen.
+📌 Hacer que el juego nunca termine, de manera que los balones al salir de la ventana se reposicionen.
 
 #### Asegúrense de haber documentado correctamente el código de acuerdo al estándar del Instituto.
 
