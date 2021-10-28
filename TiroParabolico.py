@@ -57,7 +57,7 @@ def move():
 
     for target in targets:
         if not inside(target):
-            return
+            move() # was return
 
     ontimer(move, 15) #Se modificó el valor de esta función para que todo fuera más rápido.
 
