@@ -62,9 +62,10 @@ def move():
     ontimer(move, 50)
 
 setup(420, 420, 370, 0)
+bgcolor('#F8F8FF')
 hideturtle()
 up()
 tracer(False)
 onscreenclick(tap)
 move()
-done()
+done() 
