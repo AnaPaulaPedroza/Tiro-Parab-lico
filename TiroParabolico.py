@@ -59,7 +59,7 @@ def move():
         if not inside(target):
             return
 
-    ontimer(move, 50)
+    ontimer(move, 15) #Se modificó el valor de esta función para que todo fuera más rápido.
 
 setup(420, 420, 370, 0)
 hideturtle()
